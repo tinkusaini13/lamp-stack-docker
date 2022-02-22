@@ -11,6 +11,7 @@ https://docs.docker.com/engine/install/
 After docker setup then setup docker-compose follow some steps
 
  yum install git  python39 -y
+ 
  pip3 install docker-compose -y
 
 
@@ -18,9 +19,12 @@ After docker setup then setup docker-compose follow some steps
 
  git clone https://github.com/tinkusaini13/lamp-stack-docker.git
 
- cd lamp-stack-docker/
+ cd lamp-stack-docker
+ 
  mv lamp-stack-new-version.yml  docker-compose.yml
+ 
  docker-compose up -d
+ 
  docker ps
  
 see the container is running and login the phpmyadmin using your host ip with 8080 port
