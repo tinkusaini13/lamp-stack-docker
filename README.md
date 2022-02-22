@@ -34,12 +34,22 @@ After docker setup then setup docker-compose follow some steps
  
 see the container is running and login the phpmyadmin using your host ip with 8082 port
 
+Example : 192.168.1.128:8082
+
+
+![image](https://user-images.githubusercontent.com/88707521/155125137-4402c0c4-d176-4a43-9cb9-4b58918b6660.png)
+
+
 
 ***************************************************************************************************************************************************************************
   mysql or phpmyadmin other versions are docker-compose file available into this repository see: ***************************************************************************************************************************************************************************
  
  ![image](https://user-images.githubusercontent.com/88707521/155122830-13919a3f-463c-48b1-8a20-d504aa306350.png)
 
+Some case login phpmyadmin ask password then check the docker-compose 
+
+username : root  
+password: : MYSQL_ROOT_PASSWORD
 
 mysql version 5.6  phpmyadmin version 5.1.1
 
