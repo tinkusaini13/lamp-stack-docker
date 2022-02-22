@@ -27,7 +27,9 @@ After docker setup then setup docker-compose follow some steps
  
  docker ps
  
- ![image](https://user-images.githubusercontent.com/88707521/155124497-96dc5f06-a620-452e-bda2-4657080defc4.png)
+ 
+ ![image](https://user-images.githubusercontent.com/88707521/155124670-9005c987-ab92-4513-9aa5-ef66446b8cd3.png)
+
 
  
 see the container is running and login the phpmyadmin using your host ip with 8082 port
