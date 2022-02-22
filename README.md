@@ -46,10 +46,16 @@ Example : 192.168.1.128:8082
  
  ![image](https://user-images.githubusercontent.com/88707521/155122830-13919a3f-463c-48b1-8a20-d504aa306350.png)
 
-Some case login phpmyadmin ask password then check the docker-compose 
+Some case login phpmyadmin ask username with  password then check the docker-compose  file you have use.defualt username is root
 
 username : root  
 password: : MYSQL_ROOT_PASSWORD
+
+Like 
+
+![image](https://user-images.githubusercontent.com/88707521/155127504-5a007c4f-72d8-4352-bac2-c563a7150039.png)
+
+
 
 mysql version 5.6  phpmyadmin version 5.1.1
 
